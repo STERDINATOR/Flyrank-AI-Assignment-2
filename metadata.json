@@ -1,0 +1,6 @@
+{
+  "name": "Settings Page",
+  "description": "A React settings page for managing user profile, theme, timezone, and preference settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
